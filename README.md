@@ -26,13 +26,4 @@ This repository contains the practical work completed as part of my cybersecurit
 
 The practical exercises are performed in an authorized virtual lab environment using Kali Linux and Metasploitable2.
 
-## Repository Structure
 
-```text
-network-security-and-scanning/
-├── README.md
-├── reconnaissance/
-├── nmap/
-├── openvas/
-├── wireshark/
-└── firewall/
